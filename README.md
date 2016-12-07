@@ -7,6 +7,6 @@ This repo serves as a collection of the ideas we want to implement eventually an
 
 - For each idea, please make an issue first. Also, make sure each issue is atomic annd self-contained
 - Provide some details about the idea if the idea is not immediately self-explanatory.
-- We will (with help of community) evaluate each idea and the voted idea will go to this readme.
+- We will (with help of community) evaluate each idea and the voted idea will be promoted to this readme.
 - If you like the idea, please give a :heart: emoji
 - Each idea will require at least two :heart:.
