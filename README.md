@@ -12,3 +12,5 @@ This repo serves as a collection of the ideas we want to implement eventually an
 - Each idea will require at least two :heart:.
 
 ### Ideas
+
+- OCR for Nepali/Devanagari language
